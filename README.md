@@ -70,8 +70,7 @@ corresponding external or course-provided files before they can be run.
 
 ## Results
 
-The repository includes the Homework 3 report:
-[`hw/hw3/ISP_Hw3_Report___Histogram_Equalisation.pdf`](hw/hw3/ISP_Hw3_Report___Histogram_Equalisation.pdf).
+The repository includes the [Homework 3 report](hw/hw3/ISP_Hw3_Report___Histogram_Equalisation.pdf).
 It also includes supporting datasets and generated image/audio examples
 alongside the corresponding exercises.
 
