@@ -1,0 +1,25 @@
+Tech info
+----------------------------------------------------------------------
+Source          Sentinel-2A
+Time            11-07-2020
+Resolution      100 m (resampled from 10, 20, and 60 m)
+Projection      EOV(epsg:23700)
+Size            1000x600
+Bands           13
+
+Band info
+----------------------------------------------------------------------
+#   Sentinel-2 bands                Central wavelength (nm)
+1   Band 1 – Coastal aerosol        442.7
+2   Band 2 – Blue                   492.4
+3   Band 3 – Green                  559.8
+4   Band 4 – Red                    664.6
+5   Band 5 – Vegetation red edge    704.1
+6   Band 6 – Vegetation red edge    740.5
+7   Band 7 – Vegetation red edge    782.8
+8   Band 8 – NIR                    832.8
+9   Band 8A – Narrow NIR            864.7
+10  Band 9 – Water vapour           945.1
+11  Band 10 – SWIR – Cirrus         1373.5
+12  Band 11 – SWIR                  1613.7
+13  Band 12 – SWIR                  2202.4

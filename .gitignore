@@ -1,0 +1,9 @@
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+
+# Common generated Python and notebook files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
